@@ -1,9 +1,11 @@
+/* Universal */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* TODO: Organize */
 body {
     background-color: #d9dcd6;
 }
